@@ -1,0 +1,75 @@
+body {
+    margin: 25px;
+    font-family: "Mukta Mahee', sans-serif";
+    background-image: url("riverrock.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(174, 238, 243);
+    
+}
+
+
+
+ button {
+    margin: 15px;
+   color: #000000;
+
+}
+
+.btn{
+    margin: 15px;
+   background-color: #ffffff ;
+   color: #000000;
+}
+
+.gifImage {
+    margin: 25px;
+    padding: 10px;
+}
+
+img {
+    padding: 25px;
+}
+
+.gifSection div {
+    display: inline-table;
+    font-size: 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+input.form-control.search {
+    width: 50em;
+    border-radius: 10px;
+    background-color: #eeeeee;
+}
+
+.searchBtn {
+    background-color: #eeeeee;
+    
+}
+
+#btn-section {
+    font-size: 2vw;
+    text-align: center;
+    margin: 30px;
+   
+}
+
+.input-group {
+    margin: 10px 0 0 50px;
+}
+
+.gif {
+    margin: 10px auto;
+    height: 50px;
+    width: 100%;
+    background-color:rgb(174, 238, 243);
+    border-radius: 10px;
+}
+
+
+.gifStart {
+    margin-top: 100px;
+    text-align: center;
+}
